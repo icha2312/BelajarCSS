@@ -1,0 +1,32 @@
+h1{
+	background:gray;
+	margin:1px auto;
+	font-size:36px;
+	text-align:center;
+}
+
+body{
+	width:500px;
+	height:300;
+}
+
+.aside{
+float:left;
+height:300px;
+width: 29.5%;
+}
+.section{
+float:right;
+height:150px;
+width:70%;
+background:gray;
+}
+
+ul{
+list-style: none;
+}
+
+.section .content {
+width: 95%;
+margin:8px auto;
+}
